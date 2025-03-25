@@ -17,5 +17,4 @@ This is the first project where we worked on apache spark, In this project what 
  Implemented Spark Session to load the data into Data Frames.
  Used standalone cluster mode in spark environment to run on Spark SQL queries.
 
-## license
-This project uses the following license: [MIT License](LICENSE)
+
